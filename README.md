@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ian Humprey
+Hi! My name is Ian Humprey
 ===================================================================================================================================
 
 Web Developer
 -------------
 
 * 🌍  I'm based in Manila, Philippines
-* 🚀  I'm currently working on [Life Planner App](http://github.com/humprey0123/Life-Planner-App)
+* 🚀  I'm currently working on [Life Planner App, which is my best project as of now.](http://github.com/humprey0123/Life-Planner-App)
 * 🧠  I'm learning React, Express.js, Node.js, MongoDB. And probably git soon
 
 ### Skills
