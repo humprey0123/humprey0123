@@ -1,7 +1,7 @@
 Hi! My name is Ian Humprey
 ===================================================================================================================================
 
-Web Developer
+Aspiring to be a Web Developer
 -------------
 
 * 🌍  I'm based in Manila, Philippines
