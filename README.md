@@ -6,7 +6,7 @@ Aspiring to be a Web Developer
 
 * 🌍  I'm based in Manila, Philippines
 * 🚀  I'm currently working on [Life Planner App ](http://github.com/humprey0123/Life-Planner-App)
-* 🧠  I'm learning React, Express.js, Node.js, MongoDB. And probably git soon
+* 🧠  I'm learning React.
 
 ### Skills
 
