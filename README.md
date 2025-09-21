@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Manila, Philippines
-* 🚀  I'm currently working on [Life Planner App](http://github.com/humprey0123/Life-Planner-App)
+* 🚀  I'm currently working on freeCodeCamp Certificate.
 * 🧠  I'm currently learning React, Express.js, Node.js, MongoDB and Git.
 
 <p align="left">
